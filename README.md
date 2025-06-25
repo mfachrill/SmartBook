@@ -87,7 +87,7 @@ Testing: PHPUnit
 bash
 Copy
 Edit
-git clone https://github.com/fachrill/booknest.git
+git clone https://github.com/fachrill/SmartBook.git
 cd booknest
 
 2. Install Dependensi
@@ -145,7 +145,7 @@ MAIL_USERNAME=xxxxxxx
 MAIL_PASSWORD=yyyyyyy
 MAIL_ENCRYPTION=tls
 MAIL_FROM_ADDRESS=hello@example.com
-MAIL_FROM_NAME="BookNest"
+MAIL_FROM_NAME="SmartBook"
 
 🔍 Menjalankan Testing
 bash
