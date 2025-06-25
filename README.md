@@ -182,3 +182,8 @@ Jika proyek ini dilanjutkan setelah technical test, beberapa pengembangan yang b
 🌐 REST API untuk konsumsi aplikasi mobile
 
 🧾 Fitur export/import data (CSV, Excel)
+
+# Akun Login Tes
+
+Email :user@gmail,com
+Password : user1234567
